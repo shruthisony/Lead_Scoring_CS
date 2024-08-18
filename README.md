@@ -18,18 +18,15 @@ The goal is to assign a lead score between 0 and 100 to each lead, where a highe
 5.	Data Preparation
 6.	Building the Logistic Regression Model
 7.	Model Evaluation
-8.	ROC curve, Precision Trade-off and optimal cut-off values
+8.	ROC curve, Precision-Recall Trade-off and their optimal cut-off values
 9.	Making Predictions on test data
 
 ### Files Provided:
 
-•	Lead_Scoring_CS.ipynb: The Jupyter notebook containing the code and data analysis.
-
-•	Sub_Q&A_Lead_Scoring_CS.pdf: A document with answers to some subjective questions.
-
-•	PPT_Lead_Scoring_CS.pdf: The final presentation summarizing the project.
-
-•	Summary_Lead_Scoring_CS.pdf: A Brief summary of the work done in the Jupyter notebook.
+1. Lead_Scoring_CS.ipynb: The Jupyter notebook containing the code and data analysis.
+2. Sub_Q&A_Lead_Scoring_CS.pdf: A document with answers to some subjective questions.
+3. PPT_Lead_Scoring_CS.pdf: The final presentation summarizing the project.
+4. Summary_Lead_Scoring_CS.pdf: A Brief summary of the work done in the Jupyter notebook.
 
 ### Conclusion:
 The logistic regression model developed in this project aims to enhance the efficiency of the sales process at X Education by accurately scoring leads. This will enable the sales team to prioritize high-potential leads, ultimately improving the conversion rate.
